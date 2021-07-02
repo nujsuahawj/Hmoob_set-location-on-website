@@ -1,0 +1,12 @@
+.contain{
+                    text-align: center;
+                    font-family: 'Courier New', Courier, monospace;
+}
+#name{
+                    color: rgb(56, 22, 22);
+
+}
+#map{
+                    text-align: center;
+                    border: 0px;
+}
